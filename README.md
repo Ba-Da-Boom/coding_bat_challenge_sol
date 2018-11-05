@@ -1,1 +1,1 @@
-# coding_bat_challenge_sol from https://codingbat.com
+# My Python solution for the Exercices from https://codingbat.com
